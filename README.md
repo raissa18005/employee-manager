@@ -44,7 +44,7 @@ Content-Type: application/json
 Delete http://localhost:9091/api/employees/1
 ```
 
-### Get employees by date of birth between startDate and endDate
+### Get employees by date of birth between startDate and endDate with params
 
 ```
 Get http://localhost:9090/api/employees/dob?startDate=1995-01-01&endDate=2000-01-01
