@@ -1,5 +1,5 @@
 # Spring Boot Employee Manager Project
-The service is employee manager REST service. it uses MySQL relational database to store the data in db_employee. you can call some REST endpoints defined in employee controller and on port 9090 defined in properties. You can perform CRUD operations on employees.
+The service is employee manager REST service. it uses MySQL relational database to store the data in db_employee. you can call some REST endpoints defined in employee controller and on port 9090 defined in properties. You can perform CRUD operations on employees. You can configurate the port number and db name on application.properties in resources folder.
 
 ### Get information about employees.
 ```
