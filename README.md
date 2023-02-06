@@ -6,7 +6,6 @@ The service is employee manager REST service. it uses MySQL relational database 
 http://localhost:9091/api/employees
 http://localhost:9091/api/employees/{id}
 http://localhost:9090/api/employees/dob?startDate=1995-01-01&endDate=2000-01-01
-
 ```
 
 ### Create an employee
